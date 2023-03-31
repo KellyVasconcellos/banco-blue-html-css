@@ -13,6 +13,7 @@
 ## 🔖&nbsp; Sobre
 
 O projeto **Banco Blue** é uma landing page em HTML5 e CSS3 onde pude colocar em prática meus conhecimentos.
+
 ---
 
 ## 🚀 Tecnologias utilizadas
